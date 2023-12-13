@@ -24,7 +24,7 @@
 }
 .favourite-place-card-container {
   background-color: white;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 16px;
   margin-bottom: 15px;
 }

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<html>
+<head>
+<style>
+bg-container {
+    background-image: url("https://img.freepik.com/free-photo/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand_335224-849.jpg?w=826&t=st=1698555577~exp=1698556177~hmac=3a1ca544f8c1170cd9cc1f242dbe73f97bfb9d7e8363b5fe4765fe1e3e9b777f");
+    height: 150vh;
+    background: cover;
+}
+
+.card {
+    background-color: white;
+    text-align: center;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 5px;
+}
+
+.mainheading {
+    color: red;
+    font-family: "caveta";
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.paragraph {
+    color: green;
+    font-family: "roboto";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: linethrough;
+}
+
+.button {
+    height: 5vh;
+    width: 20vw;
+    background-color: #03fcf8;
+    button-radius: 20px;
+    button-width: 15vh;
+}
+</style>
+</head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/
+    <div class="bg-container">
+        <div class="tourism-card">
+            <h1 class="mainheading">tourism</h1>
+            <p class="paragraph">trip your plan</p>
+            <button class="button">get started</button>
+        </div>
+    </div>
+</body>
+
+</html>
